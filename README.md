@@ -2,7 +2,7 @@
 
 A basic clock that displays the current date and time
 
-Go **[here](http://react-clock-basic.drminnaar.me/)** for live demo.
+Go **[here](https://vikash-kothary.github.io/react-clock-basic/)** for live demo.
 
 Component Diagram
 ![](https://user-images.githubusercontent.com/33935506/34461456-35fcbde6-ee33-11e7-908e-bc7c74b8bbd2.png)
